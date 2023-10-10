@@ -2,7 +2,7 @@
 {
 	  "name": "Fish LV 30",
 	  "color": "#955400",
-	  "icon": "fishing",
+	  "icon": "farming",
 	  "visibility": "always",
 	  "location": {
 	    "x": -2116,
