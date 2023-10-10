@@ -6,6 +6,7 @@
       },
       "materialType": "log",
       "professionType": "woodcutting",
+      "icon:Wood",
       "label": "§6Oak",
       "name": "Oak Node",
       "location": {
