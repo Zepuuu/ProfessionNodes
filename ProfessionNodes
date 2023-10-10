@@ -7,6 +7,7 @@
       "materialType": "ore",
       "professionType": "mining",
       "icon": "mining",
+      "color": "#ffaa00",
       "visibility": "always",
       "label": "§fCobalt",
       "name": "Cobalt Node",
