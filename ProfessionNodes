@@ -1,7 +1,8 @@
 [
 //Fishing
 
-{"name": "Carp [Lv.30]",
+{
+"name": "Carp [Lv.30]",
 	  "color": "#955400",
 	  "icon": "fishing",
 	  "visibility": "always",
