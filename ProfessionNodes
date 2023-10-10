@@ -5,7 +5,10 @@
 	  "color": "#955400",
 	  "icon": "fishing",
 	  "visibility": "always",
-	  "location": {}
+	  "location": {
+	"x": -1435 
+	"y": 41 
+	"z": -4761}
 
 	/*
 	Nodes:
