@@ -1,15 +1,1 @@
-[
-{
-	  "name": "Fish LV 30",
-	  "color": "#955400",
-	  "icon": "farming",
-	  "visibility": "always",
-	  "location": {
-	    "x": -2116,
-	    "y": 55,
-	    "z": -5554}
-	  
-		{}"nodes":
-		-2116 55 -5554} 
 
-	  ]
