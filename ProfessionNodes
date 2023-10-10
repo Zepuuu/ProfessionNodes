@@ -1,1 +1,19 @@
-
+[
+{
+      "sourceMaterial": {
+        "name": "Cobalt",
+        "level": 60
+      },
+      "materialType": "ore",
+      "professionType": "mining",
+      "icon": "mining",
+      "visibility": "always",
+      "label": "§fCobalt",
+      "name": "Cobalt Node",
+      "location": {
+        "x": -1324,
+        "y": 47,
+        "z": -5319
+      }
+    }
+]
