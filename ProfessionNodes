@@ -6,7 +6,7 @@
       },
       "materialType": "log",
       "professionType": "woodcutting",
-      "icon:Wood",
+      "icon: "Fishing",
       "label": "§6Oak",
       "name": "Oak Node",
       "location": {
